@@ -1,0 +1,3 @@
+Oriana Isabella Cañizales Hernández (A01738027): adaptó la clase nodo y la función agregarNodo para ajustarlo al método BST, con valores de tipo Registro.
+Ximena Ortiz Gómez (A01735100): adaptó la función leerArchivo para guardar la información necesaria de la mejor manera.
+Bum Soo Jang (A01665654): modifico la función inOrderConvexo para que mostrara los cinco valores más altos de la bitácora.

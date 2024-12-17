@@ -1,0 +1,11 @@
+Actividad Act 5.2: Actividad Integral sobre el uso de códigos hash (Evidencia Competencia)
+Integrantes: 
+Oriana Isabella Cañizales Hernandez | A01738027
+Ximena Ortiz Gómez | A01735100
+Bum Soo Jang | A01665654
+
+Oriana Isabella Cañizales Hernández modificó las estructuras, realizó la función disponible e insertar y la función crear accesos. 
+
+Bum Soo Jang creo la función de leer archivo.
+
+Ximena Ortiz Gómez modificó la función compararIPs, la función Hash. Editó la función leer archivo y realizó el main.

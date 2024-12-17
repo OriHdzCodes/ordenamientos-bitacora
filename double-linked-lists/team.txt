@@ -1,0 +1,7 @@
+Oriana Isabella Cañizales Hernandez | A01738027
+Ximena Ortiz Gómez | A01735100
+Bum Soo Jang | A01665654
+
+Oriana Cañizales se encargó de leer y guardar el archivo, y hacer la función de solicitarIP. Igualmente realizó la edición y correcciones necesarias.
+Bum Soo Jang se encargo de implementar una lista doblemente ligada, también implemento la función de ordenamiento, se uso el método QuickSort
+Ximena Ortiz Gómez se encargó de realizar los algoritmos de búsqueda y adaptar las clases. 
